@@ -1,12 +1,12 @@
 {
-  "name": "Meu Painel",
-  "short_name": "Painel",
-  "description": "Gerenciador de tarefas, visitas e testes",
+  "name": "TaskADI",
+  "short_name": "TaskADI",
+  "description": "Gestão de tarefas, visitas e testes — Grupo ADI",
   "start_url": "/painel/",
   "scope": "/painel/",
   "display": "standalone",
-  "background_color": "#0f1117",
-  "theme_color": "#0f1117",
+  "background_color": "#0a1628",
+  "theme_color": "#0a1628",
   "orientation": "portrait",
   "icons": [
     {
